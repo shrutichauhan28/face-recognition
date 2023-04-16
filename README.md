@@ -40,7 +40,7 @@ Submission for MS Engage 2022
      
 # Useful links
 <ul>
-  <li><p>Here is <a href="https://youtu.be/aJLZnDw2ibk"> Demo video.</a></p>
+  <li><p>Here is <a href=""> Demo video.</a></p>
     <li><p>Here is <a href="https://docs.google.com/presentation/d/1WgOGfoLpqmYmkMINEOV_cVMC0IgshS3X6Uq-Rrxupt0/edit?usp=sharing"> project document.</a></p>
 </ul>
 
